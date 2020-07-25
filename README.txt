@@ -8,8 +8,6 @@ I'm trying to
  - watch video lectures: https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E
  - do homework: https://inst.eecs.berkeley.edu//~cs61a/reader/nodate-hw.pdf
  - do projects: https://inst.eecs.berkeley.edu//~cs61a/reader/vol1.html
- - take midterms: https://inst.eecs.berkeley.edu//~cs61a/reader/vol2.html
- - take final: https://inst.eecs.berkeley.edu//~cs61a/reader/vol2.html
 
 Homepage: https://inst.eecs.berkeley.edu//~cs61a/sp11/  
 Homework solutions:
